@@ -1,0 +1,4 @@
+El host 10.10.20.4 tiene el puerto 80 abierto
+El host 10.10.20.54 tiene el puerto 80 abierto
+El host 10.10.20.57 tiene el puerto 80 abierto
+El host 10.10.20.67 tiene el puerto 80 abierto
